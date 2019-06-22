@@ -11,6 +11,8 @@ Java 1.8+ (Check with command: `java -version`) ([Download Page](http://www.orac
 
 VnCoreNLP ([Download Page](https://github.com/vncorenlp/VnCoreNLP))
 
+Py4j ([Download Page](https://www.py4j.org/download.html))
+
 ## Installation
 
 Clone this repository, then put VnCoreNLP-1.1.jar and models directory of VnCoreNLP in the same working folder.
