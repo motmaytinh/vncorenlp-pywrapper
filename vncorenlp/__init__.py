@@ -1,0 +1,1 @@
+from vncorenlp.vncorenlp import VnCoreNLP
